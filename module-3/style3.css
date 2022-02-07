@@ -32,10 +32,7 @@
   padding: 0;
 }
 
-.navbar-toggle{
-	border: 2px solid white;
-	margin-right: 25px;
-}
+
 
 .icon-bar{
 	background-color: white;
@@ -92,7 +89,7 @@ li{
 	font-size: 20px;
 	font-weight: bold;
 }
-
-#top{
-
+.navbar-toggle{
+	border: 2px solid white;
+	margin-right: 25px;
 }
